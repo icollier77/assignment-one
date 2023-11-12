@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -114,7 +114,9 @@ p {
 }
 
 /* Consolidated formatting for the 3 blocks with benefits on the right*/
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
