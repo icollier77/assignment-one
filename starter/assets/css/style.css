@@ -15,16 +15,20 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/* Removed 'header' as unnecessary */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+/* Different color to highlight 'seo' in 'Horiseon' */
+/* Removed 'header h1' as unnecessary */
+.seo {
     color: #d9dcd6;
 }
 
-header nav {
+/* Removed 'header' as unnecessary */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +36,10 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
+/* Navigation links */
+/* Consolidated 'header nav ul' and 'header nav ul li' */
 header nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -69,12 +72,14 @@ p {
     margin-left: 25px;
 }
 
+/* Main section with services offered */
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Section on the right with the benefits of these services */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,13 +143,14 @@ p {
     max-width: 150px;
 }
 
+/* Consolidated 'footer' and 'footer h4' as no impact on style */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-footer h4 {
     font-size: 20px;
 }
+
+
+
