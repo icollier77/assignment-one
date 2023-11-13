@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # 01 HTML CSS Git: Code Refactor
 
 ## Project Goal
