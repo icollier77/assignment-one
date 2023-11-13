@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # 01 HTML CSS Git: Code Refactor
 
 ## Project Goal
@@ -10,14 +8,11 @@ The website has to adhere to the accessibility standards to ensure its higher SE
 
 The goal of this project is to refactor the existing code to make sure that the site is more accessible.
 
-----
-### Original Website Design
+## Original Website Design
 
 The screenshot below shows how the website is supposed to look. Any changes made to the website during refactoring should not alter its appearance. 
 
 ![Alt text](assets/images/01-html-css-git-challenge-demo.png)
-
-----
 
 ## Changes Made
 
@@ -29,10 +24,6 @@ I made the following changes to the code to increase the website's accessibility
 5. Fixed broken navigation link (added id) and cleaned the code by removing "/" in the closing tags and the unnecessary closing tag for "img".
 6. Consolidated properties and selectors in the css file in accordance with the DRY principle. 
 7. Added comments to the html and css files to clearly show the purpose of each section of the code. This simplifies any editing aftewards, especially by other programmers.
-   
-
------
------
 
 ## Project Takeaways
 
@@ -45,9 +36,10 @@ This project showed the importance of selecting each HTML element with the acces
 
 It was especially interesting to consider the difference between 'section' vs 'article', and 'aside' vs 'div'.
 
-----
- ## Link to deployed web application
+ ## Links to deployed web application
 
-Deployed site: https://icollier77.github.io/assignment-one-horiseon/
+[Deployed site](https://icollier77.github.io/assignment-one-horiseon/)
 
-GitHub repo: https://github.com/icollier77/assignment-one-horiseon
+[GitHub repo](https://github.com/icollier77/assignment-one-horiseon)
+
+---------
