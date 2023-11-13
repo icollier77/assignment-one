@@ -46,3 +46,6 @@ It was especially interesting to consider the difference between 'section' vs 'a
 ----
  ## Link to deployed web application
 
+Deployed site: https://icollier77.github.io/assignment-one-horiseon/
+
+GitHub repo: https://github.com/icollier77/assignment-one-horiseon
