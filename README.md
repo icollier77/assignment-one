@@ -46,4 +46,3 @@ It was especially interesting to consider the difference between 'section' vs 'a
 ----
  ## Link to deployed web application
 
- 
