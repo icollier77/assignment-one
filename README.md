@@ -24,7 +24,7 @@ I made the following changes to the code to increase the website's accessibility
 2. Added a title to the meta description.
 3. Changed h3 to h4 in the footer to ensure the logical structure of the page.
 4. Added alt descriptions to all images.
-5. Fixed broken navigation link (added id) and cleaned the code by removing / in the closing tags and the unnecessary closing tag for img.
+5. Fixed broken navigation link (added id) and cleaned the code by removing "/" in the closing tags and the unnecessary closing tag for "img".
 6. Consolidated properties and selectors in the css file in accordance with the DRY principle. 
 7. Added comments to the html and css files to clearly show the purpose of each section of the code. This simplifies any editing aftewards, especially by other programmers.
    
