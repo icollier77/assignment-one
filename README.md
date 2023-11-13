@@ -13,7 +13,7 @@ The goal of this project is to refactor the existing code to make sure that the 
 
 The screenshot below shows how the website is supposed to look. Any changes made to the website during refactoring should not alter its appearance. 
 
-![Alt text](../assignment1/Assets/01-html-css-git-challenge-demo.png)
+![Alt text](assets/images/01-html-css-git-challenge-demo.png)
 
 ----
 
